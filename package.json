@@ -1,0 +1,35 @@
+{
+  "name": "agnostic-wipe",
+  "version": "0.1.0",
+  "description": "A utility function that safely removes all child nodes of a given DOM element, avoiding the use of innerHTML.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BansheeDevelopment/AgnosticWipe.git"
+  },
+  "keywords": [
+    "DOM",
+    "clean",
+    "wipe",
+    "innerHTML",
+    "XSS",
+    "security",
+    "safe DOM",
+    "node removal",
+    "JavaScript",
+    "vanilla JS",
+    "agnostic wipe",
+    "element cleanup",
+    "clear DOM"
+  ],
+  "author": "Claudio González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BansheeDevelopment/AgnosticWipe/issues"
+  },
+  "homepage": "https://github.com/BansheeDevelopment/AgnosticWipe#readme"
+}
